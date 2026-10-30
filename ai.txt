@@ -1,0 +1,5 @@
+# Spawning ai.txt — https://site.spawning.ai/spawning-ai-txt
+# 하늘주역(skyjooyeok.com)의 글·그림·코드는 ⓒ 2026 니르바나의 저작물입니다. AI 학습·데이터셋 이용을 허락하지 않습니다.
+User-Agent: *
+Disallow: /
+Disallow: *

@@ -1,0 +1,124 @@
+하늘주역 저작권 고지 및 이용 제한
+Copyright (c) 2026 니르바나 (NIRVANA). All rights reserved. 모든 권리 보유.
+
+저작권자: 니르바나 (대표 강태혁, 사업자등록번호 633-43-01316, 충청북도 청주시)
+문의: omnisis01@gmail.com
+적용 범위: 이 저장소(omnisis01/jooyeok-iching)의 2026년 9월 28일 이후 모든 버전, 배포 결과물 저장소(omnisis01/skyjooyeok-site)의 모든 파일, https://skyjooyeok.com 에서 제공되는 서비스
+
+이 저장소는 오픈소스가 아닙니다. 공개 저장소에 올려 둔 것은 열람을 허용한다는 뜻이지,
+복제·수정·배포·이용을 허락한다는 뜻이 아닙니다. 아래에 적은 것 외의 어떤 권리도 부여하지 않습니다.
+
+
+1. 보호 대상
+
+다음은 모두 대한민국 저작권법으로 보호되는 니르바나의 저작물이며, 세계 각국에서도 베른협약에 따라 보호됩니다.
+
+  가. 소스 코드 전부 — 화면과 앱 코드(src/), 서버 함수(supabase/functions/), 데이터베이스 정의
+      (supabase/migrations/), 설치·운영 스크립트(scripts/), 설정 파일: 컴퓨터프로그램저작물
+  나. 64괘와 384효의 한국어 번역·풀이·요약, 운세 분류별 해설, 지괘 해설, 알림·안내·오류 문구,
+      질문 분야와 시기 체계, AI 풀이의 지시문과 근거 자료 묶음: 어문저작물 및 편집저작물
+      (주역 원문 자체는 누구나 쓸 수 있는 공유 저작물입니다. 보호 대상은 니르바나가 새로 쓴
+      번역·풀이·해설과, 그것들을 고르고 배열한 방식입니다.)
+  다. 화면 디자인, 아이콘, 공유 카드, 하늘 그림, 로고와 마크: 미술저작물·응용미술저작물
+  라. 기획·계획·QA·결정 기록 문서(*.md): 어문저작물
+  마. "하늘주역", "니르바나" 명칭과 표장, 도메인 skyjooyeok.com: 부정경쟁방지법과 상표법에 따라 보호
+
+
+2. 허용되는 것
+
+  - GitHub 서비스 약관(Terms of Service, D.5)이 허용하는 범위에서 이 저장소를 열람하고 GitHub 안에서
+    포크하는 것. 이는 GitHub 서비스의 기능일 뿐이며, 열람과 포크를 넘는 어떤 이용도 허락하지 않습니다.
+  - https://skyjooyeok.com 에서 서비스 이용약관에 따라 서비스를 이용하는 것.
+  - 저작권법이 허용하는 인용(제28조)과 사적 이용을 위한 복제(제30조). 단, 출처(하늘주역, skyjooyeok.com)를
+    밝혀야 하며, 이를 다른 서비스·앱·출판물에 쓰는 것은 사적 이용이 아닙니다.
+
+
+3. 금지되는 것 (니르바나의 서면 허락이 없는 한)
+
+  - 소스 코드, 데이터, 풀이 문장, 문구, 디자인의 전부 또는 일부를 복제, 수정, 번역, 편집, 배포, 전송,
+    공중송신, 전시, 대여하는 것
+  - 이를 바탕으로 2차적저작물을 만드는 것. 이름·디자인·언어·플랫폼을 바꾼 앱이나 사이트도 2차적저작물입니다.
+  - 상업적이든 비상업적이든, 다른 서비스·앱·출판물·강의 자료에 사용하는 것
+  - 소스 코드나 풀이 데이터를 긁어 모아(크롤링·스크래핑 포함) 데이터셋이나 학습 데이터로 쓰는 것
+  - 이 고지, 저작권 표시, 출처 표시, 그 밖의 권리관리정보를 지우거나 바꾸는 것(저작권법 제104조의3)
+  - 니르바나나 하늘주역이 만들었거나 승인한 것처럼 오인하게 하는 것
+
+
+4. 위반 시 책임
+
+위 금지 사항을 어기면 다음 책임을 묻습니다. 각 책임은 서로 별개이며 함께 물을 수 있습니다.
+
+  가. 민사 (저작권법)
+     - 침해의 정지·예방 청구와 침해물의 폐기 청구 (제123조)
+     - 손해배상 청구 (제125조). 침해자가 얻은 이익을 손해액으로 추정합니다. 등록된 저작물을 침해한 자는
+       과실이 있는 것으로 추정되며, 고의 침해에는 손해액의 최대 5배까지 배상이 인정될 수 있습니다
+       (제125조 제4항·제5항, 2026년 8월 11일 시행).
+     - 등록된 저작물에 대한 법정손해배상 청구 (제125조의2): 실제 손해를 증명하지 않고도 침해된 저작물마다
+       1천만 원 이하, 영리를 목적으로 고의로 침해한 경우 5천만 원 이하를 청구할 수 있습니다.
+     - 명예회복에 필요한 조치 청구 (제127조)
+  나. 형사 (저작권법)
+     - 저작재산권을 복제·공중송신·배포·2차적저작물 작성 등의 방법으로 침해한 자는 7년 이하의 징역 또는
+       1억 원 이하의 벌금에 처하거나 이를 병과할 수 있습니다 (제136조 제1항, 2026년 8월 11일 시행 개정 기준).
+     - 영리를 목적으로 또는 상습적으로 침해한 경우에는 고소가 없어도 처벌됩니다 (제140조).
+  다. 부정경쟁방지 및 영업비밀보호에 관한 법률
+     - 상당한 투자와 노력으로 만든 성과를 무단으로 자신의 영업에 쓰는 행위(제2조 제1호 파목)에 대한
+       금지 청구(제4조)와 손해배상(제5조)
+     - "하늘주역"과 혼동을 일으키는 명칭·표장 사용(제2조 제1호 가목·나목)에 대한 금지와 손해배상
+  라. 상표법 — 등록 뒤에는 상표권 침해에 따른 금지 청구와 손해배상(제107조, 제109조)
+  마. 비용 — 침해 조사, 감정, 증거 보전, 법률 대리에 든 합리적 비용을 함께 청구합니다.
+
+니르바나는 침해를 발견하면 GitHub(DMCA Takedown), 앱 마켓, 호스팅 업체에 삭제를 요청하고,
+한국저작권보호원 신고와 민·형사 절차를 진행합니다.
+
+
+5. 제3자 구성요소
+
+Next.js, React, Tailwind CSS, Supabase 클라이언트, motion, lucide-react 등 package.json에 적힌 오픈소스
+라이브러리와, 글꼴 Pretendard·Noto Serif KR(SIL Open Font License)은 각자의 라이선스를 따르며 이 고지의
+대상이 아닙니다. 주역 원문(괘사·효사·상전)은 공유 저작물입니다.
+
+
+6. 허락 문의
+
+연구·교육·인용·제휴 등으로 이용하고자 하면 omnisis01@gmail.com 으로 먼저 문의해 주세요.
+서면(전자문서 포함)으로 허락한 범위 안에서만 이용할 수 있으며, 허락은 양도할 수 없습니다.
+
+
+7. 준거법과 관할
+
+이 고지와 관련된 분쟁에는 대한민국 법을 적용하며, 저작권자의 주소지를 관할하는 청주지방법원을
+제1심 관할 법원으로 합니다.
+
+
+8. 기타
+
+이 고지의 일부가 무효가 되어도 나머지는 그대로 효력을 가집니다. 저작권은 창작과 동시에 발생하므로
+(저작권법 제10조 제2항), 이 고지가 없는 파일이나 과거 커밋도 똑같이 보호됩니다.
+
+
+====================================================================================================
+English summary (the Korean text above governs)
+
+Copyright (c) 2026 NIRVANA (sole proprietorship, Republic of Korea, business registration 633-43-01316;
+owner Taehyuk Kang). All rights reserved.
+
+This repository is NOT open source. It is published for viewing only. No license is granted, expressly
+or by implication, to copy, modify, translate, distribute, publicly transmit, display, sell, or create
+derivative works from any part of it — including the source code, server functions, database
+definitions, scripts, the Korean translations and interpretations of the 64 hexagrams and 384 lines,
+UI copy, designs, icons, share cards, logos, and planning or QA documents — or to use any of it to
+train or build datasets. Viewing and forking within GitHub as permitted by the GitHub Terms of Service
+(Section D.5) is allowed; nothing else is. The original I Ching text is in the public domain; the
+protected material is NIRVANA's translations, interpretations, selection, and arrangement.
+
+Violations are pursued under the Copyright Act of Korea (injunction, Art. 123; damages, Art. 125;
+statutory damages for registered works up to KRW 10,000,000 per work, or KRW 50,000,000 for willful
+commercial infringement, Art. 125-2; presumed negligence for registered works and up to fivefold damages
+for willful infringement, Art. 125(4)-(5), in force 11 Aug 2026; criminal penalties of up to 7 years'
+imprisonment or a fine of up to KRW 100,000,000, Art. 136(1)), the Unfair Competition Prevention and Trade Secret Protection Act
+(Art. 2(1)(pa), misappropriation of another's achievements), the Trademark Act, and the Berne Convention
+abroad, together with DMCA takedown notices to hosting providers and app stores.
+
+Third-party open-source dependencies listed in package.json and the Pretendard and Noto Serif KR fonts
+remain under their own licenses. For permission requests contact omnisis01@gmail.com. Governing law:
+Republic of Korea; venue: Cheongju District Court.
