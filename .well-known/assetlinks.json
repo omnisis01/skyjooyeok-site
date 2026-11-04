@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.skyjooyeok.app",
+      "sha256_cert_fingerprints": [
+        "1C:9E:A8:1B:38:3C:CD:57:91:37:8D:80:6E:1B:99:E4:B8:70:6A:BC:01:CE:0A:36:43:47:E2:66:AE:88:48:72"
+      ]
+    }
+  }
+]

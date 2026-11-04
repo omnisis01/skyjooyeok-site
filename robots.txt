@@ -1,0 +1,35 @@
+User-Agent: GPTBot
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: anthropic-ai
+User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
+User-Agent: CCBot
+User-Agent: Bytespider
+User-Agent: meta-externalagent
+User-Agent: Meta-ExternalFetcher
+User-Agent: FacebookBot
+User-Agent: Amazonbot
+User-Agent: cohere-ai
+User-Agent: cohere-training-data-crawler
+User-Agent: Diffbot
+User-Agent: PerplexityBot
+User-Agent: Omgilibot
+User-Agent: Omgili
+User-Agent: ImagesiftBot
+User-Agent: YouBot
+User-Agent: Timpibot
+User-Agent: AI2Bot
+User-Agent: Ai2Bot-Dolma
+User-Agent: PetalBot
+User-Agent: DuckAssistBot
+User-Agent: PanguBot
+User-Agent: Webzio-Extended
+User-Agent: img2dataset
+User-Agent: Scrapy
+Disallow: /
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://skyjooyeok.com/sitemap.xml
